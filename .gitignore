@@ -32,3 +32,5 @@
 *.app
 BOJ/Test
 BOJ/Test.cpp
+BOJ/Test.cpp
+BOJ/Test.dSYM/Contents/Resources/DWARF/Test
